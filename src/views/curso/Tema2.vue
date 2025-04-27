@@ -1,6 +1,6 @@
 <template lang="pug">
   .curso-main-container.pb-3
-    BannerInterno(:subTitulo="'2. Título tema'")
+    BannerInterno(:subTitulo="'2.  Estrategias de marketing responsable e innovador'")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
   
       .row.justify-content-center.align-items-stretch.mb-5
