@@ -17,9 +17,12 @@
 
     
         LineaTiempoD.color-primario.large(data-aos="fade-right")
-          p(numero="1" titulo="Título paso 1") Contenido paso 1
-          p(numero="2" titulo="Título paso 2") Contenido paso 2
-          p(numero="3" titulo="Título paso 3") Contenido paso 3
+          p(numero="1" titulo="Generación de confianza y reputación empresarial") Las empresas que operan con transparencia y responsabilidad fortalecen su reputación y la confianza del público. Según Nielsen, el 66 % de los consumidores están dispuestos a pagar más por productos y servicios de compañías socialmente responsables. Ejemplos como Patagonia y Tesla demuestran que integrar valores éticos y sostenibilidad es una ventaja competitiva.
+          p(numero="2" titulo="Fidelización de clientes y ventaja competitiva") Priorizar la ética fomenta la lealtad de los clientes. Marcas como Nestlé y Danone han reformulado productos para reducir su impacto ambiental y mejorar su valor nutricional, lo que ha impulsado su aceptación en mercados más conscientes. En sectores competitivos como la tecnología y la moda, empresas con prácticas responsables logran diferenciarse, como Tesla en la industria automotriz.
+          p(numero="3" titulo="Atracción y retención del talento humano") Un ambiente laboral basado en principios éticos y condiciones justas mejora la satisfacción y productividad de los empleados, reduciendo la rotación. Empresas como Google y Unilever han implementado estrategias de bienestar y diversidad que fortalecen el compromiso de sus colaboradores.
+          p(numero="4" titulo="Cumplimiento normativo y reducción de riesgos") La creciente regulación en sostenibilidad y ética empresarial exige que las empresas adopten prácticas de RSE para evitar sanciones y adaptarse a normativas sobre cambio climático y derechos laborales.
+          p(numero="5" titulo="Sostenibilidad económica y crecimiento a largo plazo") Integrar la sostenibilidad en el modelo de negocio no solo genera impacto positivo en la sociedad y el medioambiente, sino que también fortalece la viabilidad financiera y la resiliencia ante crisis económicas.
+          
       .col-lg-4
         figure
           img(src="@/assets/curso/tema1/2.png", alt="", data-aos="zoom-in").mb-4.mb-lg-0
@@ -33,9 +36,11 @@
 
     
         LineaTiempoD.color-primario.large(data-aos="fade-right")
-          p(numero="1" titulo="Título paso 1") Contenido paso 1
-          p(numero="2" titulo="Título paso 2") Contenido paso 2
-          p(numero="3" titulo="Título paso 3") Contenido paso 3
+          p(numero="6" titulo="Aumento de la regulación en sostenibilidad") Las normativas ambientales, sociales y de gobernanza (ESG) se están incrementando en distintos países. En España, por ejemplo, el Libro Verde de Finanzas Sostenibles promueve una transición hacia prácticas empresariales responsables.
+          p(numero="7" titulo="Demanda de transparencia y responsabilidad") La sociedad exige mayor claridad en las operaciones empresariales. Un liderazgo ético implica tomar decisiones basadas en equidad e integridad, asegurando que los proyectos sean sostenibles.
+          p(numero="8" titulo="Adaptación al cambio climático y sostenibilidad") La necesidad urgente de responder al cambio climático obliga a las empresas a incorporar estrategias sostenibles. El informe Tendencias ESG 2025 de Forética destaca la importancia de enfoques positivos hacia la naturaleza y la inversión en adaptación climática.
+          p(numero="9" titulo="Integración de la inteligencia artificial (IA)") La IA representa desafíos y oportunidades en la gestión empresarial. Un liderazgo ético es clave para su uso responsable, optimizando procesos sin perder el componente humano. El Rey Felipe VI ha enfatizado la importancia del "liderazgo empresarial ético" ante estos retos.
+          p(numero="10" titulo="Presión de inversores y mercados") Los inversionistas buscan compañías con prácticas sostenibles, ya que la ética y la RSE son indicadores de una gestión sólida y una visión a largo plazo. Esto ha impulsado el desarrollo de productos financieros verdes y la promoción de la innovación con enfoques responsables.
 
     
     .bg-full-width.bg-color-3.mb-5
@@ -66,29 +71,29 @@
               figure
                 img(src="@/assets/curso/tema1/slide-1.png")
             .col-lg-7
-              h5 Título del slide 1
-              p Contenido del slide 1
+              h5 Definición de RSE
+              p Modelo de gestión en el que las empresas integran preocupaciones sociales, económicas y ambientales en sus operaciones y en sus interacciones con sus stakeholders (clientes, empleados, inversionistas, proveedores y comunidad).
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-lg-2
               figure
                 img(src="@/assets/curso/tema1/slide-2.png")
             .col-lg-7
-              h5 Título del slide 2
-              p Contenido del slide 2
+              h5 Origen
+              p Se remonta a la Revolución Industrial, cuando surgieron preocupaciones sobre las condiciones laborales y el impacto ambiental de las fábricas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5
               figure
                 img(src="@/assets/curso/tema1/slide-3.png")
             .col-lg-7
-              h5 Título del slide 3
-              p Contenido del slide 3
+              h5 Evolución
+              p En la segunda mitad del siglo XX, con la globalización y el crecimiento de la conciencia social, la RSE se consolidó como un elemento clave del desarrollo empresarial.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5
               figure
                 img(src="@/assets/curso/tema1/slide-3.png")
             .col-lg-7
-              h5 Título del slide 3
-              p Contenido del slide 3
+              h5 Normativas internacionales
+              p En los años 70, la ONU y otros organismos comenzaron a desarrollar normas para incentivar prácticas empresariales responsables. En los años 90 y 2000, surgieron estándares como la ISO 26000, que establece directrices internacionales sobre la RSE.
     
     .bg-full-width.bg-color-2.p-4.p-lg-5.mb-4
       p.mb-0 Esta integración del liderazgo ético con la responsabilidad social empresarial no solo fortalece la reputación y competitividad de las organizaciones, sino que también garantiza su sostenibilidad en el tiempo.
@@ -108,7 +113,8 @@
                 alt=""
                 style="width: 90px"
               )
-              p.mb-0.text-center Contenido icon 1
+              h6.mb-4.text-center Reputación y confianza del consumidor
+              p.mb-0.text-center Los consumidores actuales prefieren marcas que demuestren un compromiso con la sostenibilidad y la ética.
         
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100
@@ -117,7 +123,8 @@
                 alt=""
                 style="width: 90px"
               )
-              p.mb-0.text-center Contenido icon 2
+              h6.mb-4.text-center Regulaciones gubernamentales
+              p.mb-0.text-center Existen leyes y normas que obligan a las empresas a ser responsables con el medio ambiente y la sociedad.
         
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100
@@ -126,8 +133,8 @@
                 alt=""
                 style="width: 90px"
               )
-              p.mb-0.text-center Contenido icon 3
-    
+              h6.mb-4.text-center Atracción y retención de talento
+              p.mb-0.text-center Las nuevas generaciones de empleados buscan trabajar en empresas con propósito y valores alineados con la sostenibilidad y la ética.
           div.col-lg-3.mb-4(data-aos="zoom-in-up")
             div.bg-color-white.box-shadow.px-4.py-5.h-100
               img.mx-auto.d-block.mb-4(
@@ -135,7 +142,8 @@
                 alt=""
                 style="width: 90px"
               )
-              p.mb-0.text-center Contenido icon 4
+              h6.mb-4.text-center Acceso a mercados y financiamiento
+              p.mb-0.text-center Fondos de inversión y mercados financieros favorecen empresas que cumplen con criterios de sostenibilidad y responsabilidad social (criterios ESG).
     
 
     p.mb-5 Desde principios del siglo XXI, la RSE ha pasado de ser una estrategia voluntaria a convertirse en una necesidad empresarial, integrándose en áreas clave como la estrategia corporativa, la gobernanza y la gestión de riesgos.
@@ -219,25 +227,25 @@
                 figure
                   img(src='@/assets/curso/tema1/info1.png', alt='', style="max-width: 1150px;").mx-auto
     
-              .bg-color-white.box-shadow.p-3(x="20%" y="57.5%" numero="+")
-                h5 Título punto 1
-                p Contenido punto 1
+              .bg-color-white.box-shadow.p-3(x="12%" y="26.5%" numero="+")
+                h5 Diferenciación de marca y lealtad del cliente
+                p Los consumidores prefieren marcas responsables y están dispuestos a pagar más por productos sostenibles.
     
-              .bg-color-white.box-shadow.p-3(x="29%" y="34%" numero="+")
-                h5 Título punto 2
-                p Contenido punto 2
+              .bg-color-white.box-shadow.p-3(x="31%" y="72.4%" numero="+")
+                h5 Reducción de costos operativos
+                p La eficiencia energética, la reducción de residuos y el uso responsable de recursos disminuyen costos.
     
-              .bg-color-white.box-shadow.p-3(x="59%" y="6%" numero="+")
-                h5 Título punto 3
-                p Contenido punto 3
+              .bg-color-white.box-shadow.p-3(x="50%" y="26.6%" numero="+")
+                h5 Atracción de inversores
+                p Fondos de inversión priorizan empresas con alto compromiso social y ambiental.
     
-              .bg-color-white.box-shadow.p-3(x="69%" y="35%" numero="+")
-                h5 Título punto 4
-                p Contenido punto 4
+              .bg-color-white.box-shadow.p-3(x="69%" y="72.5%" numero="+")
+                h5 Acceso a nuevos mercados
+                p Empresas con altos estándares de RSE pueden expandirse globalmente y establecer alianzas estratégicas.
     
-              .bg-color-white.box-shadow.p-3(x="76.5%" y="57%" numero="+")
-                h5 Título punto 5
-                p Contenido punto 5
+              .bg-color-white.box-shadow.p-3(x="88.5%" y="26.6%" numero="+")
+                h5 Innovación sostenible
+                p La RSE impulsa el desarrollo de productos y servicios con impacto positivo, creando nuevos modelos de negocio.
     
 
     .bg-full-width.bg-color-1.mb-5
@@ -260,15 +268,28 @@
       .col-lg-7
     
         LineaTiempoD.color-primario.large(data-aos="fade-left")
-          div(numero="1" titulo="Título paso 1")
+          div(numero="1" titulo="Acceso a capital e inversión sostenible")
             p Los inversionistas priorizan compañías con sólidos principios ESG (Environmental, Social, and Governance). Fondos de inversión y bancos favorecen empresas con prácticas responsables, ya que presentan menor riesgo financiero y mayor estabilidad a largo plazo. 
             ul.lista-ul--color.color-dark.mb-4
               li.mb-0
                 i.fas.fa-arrow-circle-right
-                | #[strong Ejemplo:] el crecimiento de los bonos verdes, que otorgan financiamiento a tasas preferenciales para proyectos sostenibles.
+                | #[strong Ejemplo:] el crecimiento de los #[strong bonos verdes,] que otorgan financiamiento a tasas preferenciales para proyectos sostenibles.
             
-          div(numero="2" titulo="Título paso 2") Contenido paso 2
-          div(numero="3" titulo="Título paso 3") Contenido paso 3
+          div(numero="2" titulo="Reducción de costos y eficiencia operativa") La RSE no solo responde a una necesidad ética, sino que también ayuda a optimizar costos. Estrategias como la eficiencia energética, la optimización de recursos y la reducción de residuos generan ahorros significativos. #[strong Unilever] ha logrado reducir costos en su cadena de suministro gracias a su enfoque en sostenibilidad.
+          div(numero="3" titulo="Adaptabilidad a cambios regulatorios y exigencias del mercado") 
+            p Las normativas gubernamentales y regulaciones ambientales son cada vez más estrictas. Las empresas que adoptan prácticas éticas y sostenibles con anticipación evitan sanciones y aseguran su viabilidad en mercados globalizados.
+            ul.lista-ul--color.color-dark.mb-4
+              li.mb-0
+                i.fas.fa-arrow-circle-right
+                | #[strong Ejemplo:] La #[strong Unión Europea] ha implementado requisitos estrictos sobre emisiones de carbono y sostenibilidad empresarial.
+
+          div(numero="4" titulo="Fidelización de clientes y crecimiento a largo plazo") 
+            p El consumidor moderno prefiere marcas alineadas con sus valores. Las estrategias de RSE fortalecen la conexión con los clientes, impulsando su lealtad y el crecimiento del negocio.
+            ul.lista-ul--color.color-dark.mb-4
+              li.mb-0
+                i.fas.fa-arrow-circle-right
+                | #[strong Ejemplo:] #[strong The Body Shop e IKEA,] cuyas estrategias basadas en sostenibilidad han impulsado su expansión global.
+
     
 
     .bg-full-width.bg-color-2
@@ -291,15 +312,12 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+              a(href="https://economicas.unsa.edu.ar/afinan/informacion_general/book/ebooks/Responsabilidad%20social%20empresarial.pdf" target="_blank" rel="noopener noreferrer") Emmanuel Raufflet, José-Felix Lozano Aguilar, Ernesto Barrera Duque, Consuelo Gracía de la Torre. (2019). RESPONSABILIDAD SOCIAL Y COMPETITIVIDAD. Red Iberoamericana de academia de la investigación.
 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=7LvLdH6rvZg" target="_blank" rel="noopener noreferrer") PROMPERÚ Oficial (2020, 23 de junio). Responsabilidad Social Empresarial como estrategia de valor en los negocios.
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

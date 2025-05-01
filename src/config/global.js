@@ -16,70 +16,15 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Liderazgo Ético y Responsabilidad Social Empresarial (RSE)',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_1_2',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo: 'Estrategias de <em>marketing</em> responsable e innovador',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Título tema',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Subtítulo tema',
-            hash: 't_3_2',
-          },
-        ],
       },
       {
         nombreRuta: 'sintesis',
@@ -119,26 +64,125 @@ export default {
   referencias: [
     {
       referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+        'Siliceo Aguilar, A. (2021). Liderazgo: imperativo ético: (1 ed.). Editorial Miguel Ángel Porrúa.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/191645',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Avendaño Mancipe, J. F. & Pulido Talero, W. E. (2023). Modelo híbrido para la humanización de la economía empresarial y la responsabilidad social corporativa: (1 ed.). Corporación Universitaria Minuto de Dios.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/274543',
+    },
+    {
+      referencia:
+        'Molina-Muñoz, J. (Comp.). (2023). Sustainability and management: Sostenibilidad y dirección de empresas: (1 ed.). Editorial Universidad del Rosario.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/232034',
+    },
+    {
+      referencia:
+        'Plaza Casado, A. (Coord.). (2024). Marketing socialmente responsable: (1 ed.). Dykinson.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/261604',
+    },
+    {
+      referencia:
+        'López Medina, J. D. (Comp.), Orozco Toro, J. A., & Muñoz Sánchez, O. (2019). Estrategias de publicidad social: coyunturas sociales como oportunidad de mejoramiento de valor responsable: (1 ed.). Universidad Católica.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/126350',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Cambio climático',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'variaciones en el clima global causadas principalmente por la actividad humana, con impacto directo en la sostenibilidad empresarial.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Competitividad sostenible',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'capacidad de una empresa para mantener su ventaja en el mercado mientras minimiza su impacto ambiental y social.',
+    },
+    {
+      termino: 'Consumo responsable',
+      significado:
+        'decisiones de compra informadas que favorecen productos y servicios con impacto positivo en la sociedad y el medio ambiente.',
+    },
+    {
+      termino: 'Desarrollo sostenible',
+      significado:
+        'crecimiento económico que satisface las necesidades del presente sin comprometer los recursos para futuras generaciones.',
+    },
+    {
+      termino: 'Diversidad e inclusión',
+      significado:
+        'prácticas que garantizan igualdad de oportunidades y respeto a las diferencias en el entorno laboral.',
+    },
+    {
+      termino: 'Economía circular',
+      significado:
+        'modelo de producción y consumo basado en la reutilización y reciclaje para reducir deshechos y uso de recursos naturales.',
+    },
+    {
+      termino: 'Empaque sostenible',
+      significado:
+        'diseño de envases con materiales biodegradables o reciclables para reducir el impacto ambiental.',
+    },
+    {
+      termino: 'Empoderamiento laboral',
+      significado:
+        'estrategias para mejorar la participación, motivación y bienestar de los empleados en la organización.',
+    },
+    {
+      termino: 'Ética empresarial',
+      significado:
+        'conjunto de principios morales que guían la toma de decisiones responsables dentro de una organización.',
+    },
+    {
+      termino: 'Fidelización de clientes',
+      significado:
+        'estrategias que buscan generar relaciones de largo plazo con los clientes a través de valores compartidos y responsabilidad social.',
+    },
+    {
+      termino: 'Gobernanza corporativa',
+      significado:
+        'sistema de normas y procesos que regulan la gestión empresarial con transparencia y equidad.',
+    },
+    {
+      termino: 'Responsabilidad Social Empresarial (RSE)',
+      significado:
+        'prácticas corporativas que buscan equilibrar el beneficio económico con el bienestar social y ambiental.',
+    },
+    {
+      termino: 'Sostenibilidad empresarial',
+      significado:
+        'modelo de negocio que integra prácticas sostenibles en su estrategia para garantizar su viabilidad a largo plazo.',
+    },
+    {
+      termino: '<em>Greenwashing</em>',
+      significado:
+        'práctica engañosa donde una empresa se promociona como sostenible sin aplicar medidas reales de responsabilidad ambiental.',
+    },
+    {
+      termino: 'Impacto ambiental',
+      significado:
+        'efecto que las actividades empresariales tienen en el medio ambiente, incluyendo emisiones de carbono, contaminación y uso de recursos.',
+    },
+    {
+      termino: 'Indicadores ESG',
+      significado:
+        'métricas que evalúan el desempeño ambiental, social y de gobernanza de una empresa para medir su sostenibilidad.',
+    },
+    {
+      termino: 'Innovación responsable',
+      significado:
+        'desarrollo de productos y tecnologías que cumplen con principios éticos y generan un impacto social positivo.',
+    },
+    {
+      termino: 'Liderazgo ético',
+      significado:
+        'capacidad de influir en otros con base en principios de integridad, transparencia y justicia dentro de la organización.',
+    },
+    {
+      termino: '<em>Marketing responsable</em>',
+      significado:
+        'estrategias de promoción alineadas con valores de sostenibilidad, transparencia y equidad social.',
     },
   ],
 }
