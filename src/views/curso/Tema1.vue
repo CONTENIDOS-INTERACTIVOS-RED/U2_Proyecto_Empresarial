@@ -312,7 +312,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://economicas.unsa.edu.ar/afinan/informacion_general/book/ebooks/Responsabilidad%20social%20empresarial.pdf" target="_blank" rel="noopener noreferrer") Emmanuel Raufflet, José-Felix Lozano Aguilar, Ernesto Barrera Duque, Consuelo Gracía de la Torre. (2019). RESPONSABILIDAD SOCIAL Y COMPETITIVIDAD. Red Iberoamericana de academia de la investigación.
+              a(href="https://www.academia.edu/45001576/Emmanuel_Raufflet_Luis_Portales_Derbez_E_M_P_R_E_S_A_R_I_A_L" target="_blank" rel="noopener noreferrer") Emmanuel Raufflet, José-Felix Lozano Aguilar, Ernesto Barrera Duque, Consuelo Gracía de la Torre. (2019). RESPONSABILIDAD SOCIAL Y COMPETITIVIDAD. Red Iberoamericana de academia de la investigación.
 
 
             p.d-flex.my-4

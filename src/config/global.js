@@ -2,7 +2,7 @@ export default {
   global: {
     numeroUnidad: '2',
     tituloUnidad:
-      'Estrategias para proyectos empresariales sostenibles e innovadores',
+      'Liderazgo ético y responsable en la implementación de proyectos empresariales',
   },
   menuPrincipal: {
     menu: [
